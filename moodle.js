@@ -49,9 +49,6 @@ casper.then(function(){
     });
 })
 
-casper.then(function(){
-    casper
-});
 
 casper.run(function () {
     casper.echo('Done.').exit();
