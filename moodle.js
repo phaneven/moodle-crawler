@@ -7,8 +7,8 @@ var casper = require('casper').create({
     // logLevel: "debug"
 });
 
-var username = 'z5119693';
-var password = 'hyw523974055^&*()';
+var username = '';
+var password = '';
 var url = 'https://moodle.telt.unsw.edu.au/login/';
 var course_titles = [];
 var course_links = [];
